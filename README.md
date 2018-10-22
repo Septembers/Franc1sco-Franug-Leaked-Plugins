@@ -3,7 +3,7 @@
 - [Releases/Leaks](#releases)
 - [Replacements](#replacements-for-franc1scos-plugins)
 - [Franc1sco unethical business](#franc1sco-unethical-business)
-- [Illegal / Unethical Plugins](illegal-unethical-plugins)
+- [Illegal / Unethical Plugins](#illegal-unethical-plugins)
 
 # About Franc1sco
 Franc1sco sells overprice, poorly written code for around 25+ USD. He claims to be a "Veteran Sourcemod Coder" but still __Steals__ code off other users without mentioning them at all. 
