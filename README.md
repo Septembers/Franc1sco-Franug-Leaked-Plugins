@@ -33,6 +33,7 @@ Notes: (Read)
     - Make sure to include the readme from the repo (guide).
     - Latest files, including sourcecode (.sp files).
     - Please use a well known site for downloading files.
+    - Re-send any updates what occur at a later date.
   
   With Credit:
     - Submit a merge request.
