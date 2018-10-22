@@ -15,6 +15,7 @@ __So what do you get for $25+?__
 - Stolen code. (He has admitted to it.) [Proof](https://camo.githubusercontent.com/3719639cc55142a1b1330ea3207f865c926bf553/68747470733a2f2f692e6779617a6f2e636f6d2f32353761376630363537613234616364666637623639333139376666363164642e706e67)
 
 # Releases
+__Planning to update ws, knife & gloves as new skins are released.__
 | Status | Guides                                                                                              | Download                                                                                                                   | Leaked By                                     | Plugin             |
 |--------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------|
 | Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/gloves.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/CSGO-Gloves-master.zip)               | [Ward](https://github.com/WardPearce)         | Gloves             |
