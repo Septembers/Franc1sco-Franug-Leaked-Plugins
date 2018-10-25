@@ -1,6 +1,6 @@
 # Index
 - [About Franc1sco](#about-franc1sco)
-- [Releases/Leaks](#releases)
+- [Releases / Leaks](#releases)
 - [Replacements](#replacements-for-franc1scos-plugins)
 - [Franc1sco unethical business](#franc1sco-unethical-business)
 - [Illegal / Unethical Plugins](##illegal--unethical-plugins)
