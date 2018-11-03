@@ -29,7 +29,7 @@ __So what do you get for $25+?__
 # Releases
 __Planning to update ws, knife & gloves as new skins are released.__
 
-[DeadGames](https://github.com/Franc1sco/Franug-DeadGames) is now public, but I'm going to keep [KewaiiGamer](https://github.com/KewaiiGamer)'s leak here because it includes a improved version.
+[DeadGames](https://github.com/Franc1sco/Franug-DeadGames) is now public, but I'm going to keep [KewaiiGamer](https://github.com/KewaiiGamer)'s leak here because it includes an improved version.
 
 | Status | Guides                                                                                              | Download                                                                                                                   | Leaked By                                     | Plugin             |
 |--------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------|
