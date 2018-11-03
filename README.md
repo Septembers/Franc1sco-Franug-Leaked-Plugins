@@ -135,6 +135,16 @@ Selling illegal plugins for profit would could result in his clients being taken
 ```
 Just because the plugin is licenced under GPL doesn't mean its ethical to steal large amount of code without even mentioning the author, selling it privately & then writing your name over it.
 
+# Resorting to Bullying
+```
+ward, you are really crazy spamming people profiles lol. I hope that they will report you for spam atleast. My recommendation is that you should go to a psychologist to deal with the obsession that you have with me, I understand that you love me a lot and for that reason you lose so much time on me but I am not interested in your love, I am happy with my girlfriend, sorry bro. And good luck with your VAC banned accounts, cheater ;)
+
+Btw, you could update your "leaks" with this now https://github.com/Franc1sco/Franug-DeadGames but remember to try to say♥♥♥♥♥♥against me. Haters gonna hate.
+
+I recommend to report his profile for spam, bulling or incitement to hatred. And like the meme says, "never trust in a anime avatar". Sadly because I like anime, but crazy people like him demostrate that meme.
+```
+Hes now trying to bully me into submission. I really don't think I need to comment on this aside from how pathetic it is.
+
 # Screenshot Gallery
 ![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
 
