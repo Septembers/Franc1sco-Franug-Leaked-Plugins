@@ -6,6 +6,7 @@
 - [Illegal / Unethical Plugins](##illegal--unethical-plugins)
 - [Custom Coded Plugin](#wanting-a-custom-coded-plugin)
 - [Franc1sco Humanised](#franc1sco-humanised)
+- [Resorting to bullying](#resorting-to-bullying)
 - [Screenshot Gallery](#screenshot-gallery)
 - [Franc1sco Contact](#franc1sco-contact)
 - [Full DM Logs](#full-dm-logs)
