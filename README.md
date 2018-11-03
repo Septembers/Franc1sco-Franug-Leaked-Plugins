@@ -29,6 +29,8 @@ __So what do you get for $25+?__
 # Releases
 __Planning to update ws, knife & gloves as new skins are released.__
 
+[DeadGames](https://github.com/Franc1sco/Franug-DeadGames) is now public, but I'm going to keep [KewaiiGamer](https://github.com/KewaiiGamer)'s leak here because it includes a improved version.
+
 | Status | Guides                                                                                              | Download                                                                                                                   | Leaked By                                     | Plugin             |
 |--------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------|
 | Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/gloves.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/CSGO-Gloves-master.zip)               | [Ward](https://github.com/WardPearce)         | Gloves             |
