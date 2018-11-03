@@ -148,6 +148,7 @@ Hes now trying to bully me into submission. I really don't think I need to comme
 
 # Screenshot Gallery
 ![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
+![Bullying](https://i.gyazo.com/0ff93e6563eb0db6d95ae51fd8f623c3.png)
 
 # Franc1sco Contact
 __NEVER BUY ANYTHING OFF HIM__
