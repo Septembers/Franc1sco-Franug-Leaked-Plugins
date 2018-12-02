@@ -77,6 +77,7 @@ Submit a issue on Github or email me to add another replacement.
 - He doesn't clearly state the ws plugin doesn't come with !knife. But after purchase the private repository clearly says "If you want a !knife plugin you need to use the private knife version, if you still dont have it, then buy it from me (Franc1sco franug)."
 - Selling illegal plugins for profit would could result in his clients being taken to court. For example his __Multi adverts plugin__ breaks most MOTD advertisers terms of service.
 - Telling clients to not include .sp files.
+- Selling  'Private' plugins for $20 with only 76 lines of code. His valve menu plugin just runs fake client commands.
 
 __Now this is shady__
 ```
