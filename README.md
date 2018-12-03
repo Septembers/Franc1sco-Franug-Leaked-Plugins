@@ -1,3 +1,5 @@
+# WS, Gloves & Knife will result in a GSLT Ban.
+
 # Index
 - [About Franc1sco](#about-franc1sco)
 - [Releases / Leaks](#releases)
