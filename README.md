@@ -1,5 +1,5 @@
 # WS, Gloves & Knife will result in a GSLT Ban.
-
+Please use something like [csgotokens](https://csgotokens.com) to avoid bans. Using your own gametokens with ws, gloves or knife will give you a 6 months global cooldown.
 # Index
 - [About Franc1sco](#about-franc1sco)
 - [Releases / Leaks](#releases)
