@@ -44,7 +44,7 @@ __Planning to update ws, knife & gloves as new skins are released.__
 | Fixed  | None                                                                                                | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-DeadGames-Fixed-By-Kewaii.zip)                                                            | [KewaiiGamer](https://github.com/KewaiiGamer) | DeadGames      
 | Latest  | None                                                                                                | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Valve-menu-master.zip)                                                            | [Lines](https://steamcommunity.com/profiles/76561198096662593/) | Valve Menu
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/BlockSMPlugins-master.zip)                                                            | [Ward](https://github.com/WardPearce) | BlockSMPlugins 
-| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/MapDeleter-master.zip)                                                            | [Ward](https://github.com/WardPearce) | MapDeleter-master 
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/MapDeleter-master.zip)                                                            | [Ward](https://github.com/WardPearce) | MapDeleter 
 ```
 Have Private Plugins From Franc1sco?
 
