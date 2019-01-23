@@ -68,7 +68,7 @@ Notes: (Read)
 - Using [Core v2.x](https://forums.alliedmods.net/showthread.php?t=299311) with this [Module](https://forums.alliedmods.net/showthread.php?t=304501) does exactly what __Valve Competitive Rank (RankMe Edition & Stamm version)__ does.
 
 ```
-Submit a issue on Github or email me to add another replacement.
+Submit a issue on Github or message me on discord.
 ```
 
 # Franc1sco unethical business
