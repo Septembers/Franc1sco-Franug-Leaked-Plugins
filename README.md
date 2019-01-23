@@ -50,12 +50,8 @@ Have Private Plugins From Franc1sco?
 
 Notes: (Read)
   Anomalously:
-    - Email me at fact.nation.buissness@gmail.com
-    - Include the plugin name & release date.
-    - Make sure to include the readme from the repo (guide).
-    - Latest files, including sourcecode (.sp files).
-    - Please use a well known site for downloading files.
-    - Re-send any updates what occur at a later date.
+  - Add me on discord at Ward#0730.
+  - Send files via discord including .sp files.
   
   With Credit:
     - Submit a merge request.
