@@ -1,5 +1,5 @@
 # Notice
-I do **NOT** condemn the use of these illegal plugins due most of them to directly breaking Valve's TOS. The **ONLY** reason this repository exists is to prove Franc1sco unethical business practice (Borderline scams). Anything you download here is under your own risk and anything here could result in a ban or even legal action from Valve. **NEVER** buy anything off Franc1sco, but if you already own some plugins what are not leaked here already please submit a issue or merge request. Other sites do provide methods to avoid GLST bans (e.g. [csgotokens.com](https://csgotokens.com/index.php)) but I do not condemn the use of such sites. 
+I do **NOT** condemn the use of these illegal plugins due most of them directly breaking Valve's TOS. The **ONLY** reason this repository exists is to prove Franc1sco unethical business practice (Borderline scams). Anything you download here is under your own risk and anything here could result in a ban or even legal action from Valve. **NEVER** buy anything off Franc1sco, but if you already own some plugins what are not leaked here already please submit a issue or merge request. Other sites do provide methods to avoid GLST bans (e.g. [csgotokens.com](https://csgotokens.com/index.php)) but I do not condemn the use of such sites. 
 
 # Index
 - [About Franc1sco](#about-franc1sco)
