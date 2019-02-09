@@ -48,6 +48,7 @@ Latest skins: Danger Zone Case.
 | Latest  | None                                                                                                | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Valve-menu-master.zip)                                                            | [Lines](https://steamcommunity.com/profiles/76561198096662593/) | Valve Menu
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/BlockSMPlugins-master.zip)                                                            | [Ward](https://github.com/WardPearce) | BlockSMPlugins 
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/MapDeleter-master.zip)                                                            | [Ward](https://github.com/WardPearce) | MapDeleter 
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/store_ws.zip)                                                            | [TheBO$$](https://steamcommunity.com/profiles/76561197976061879) | Store WS 
 ```
 Have Private Plugins From Franc1sco?
 
