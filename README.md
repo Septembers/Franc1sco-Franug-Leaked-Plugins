@@ -33,7 +33,7 @@ __So what do you get for $25+?__
 # Releases
 __Planning to update ws, knife & gloves as new skins are released.__
 
-Latest skins: Danger Zone Case.
+Last Update: 15/03/2019.
 
 [DeadGames](https://github.com/Franc1sco/Franug-DeadGames) is now public, but I'm going to keep [KewaiiGamer](https://github.com/KewaiiGamer)'s leak here because it includes an improved version.
 
@@ -49,6 +49,7 @@ Latest skins: Danger Zone Case.
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/BlockSMPlugins-master.zip)                                                            | [Ward](https://github.com/WardPearce) | BlockSMPlugins 
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/MapDeleter-master.zip)                                                            | [Ward](https://github.com/WardPearce) | MapDeleter 
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/store_ws.zip)                                                            | [TheBO$$](https://steamcommunity.com/profiles/76561197976061879) | Store WS 
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/DeathRun-Shop-master.zip)                                                            | [fanijs](https://github.com/fanijs) | DeathRun Shop
 ```
 Have Private Plugins From Franc1sco?
 
