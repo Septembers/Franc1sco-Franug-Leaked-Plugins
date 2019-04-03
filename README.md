@@ -50,6 +50,9 @@ Last Update: 15/03/2019.
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/MapDeleter-master.zip)                                                            | [Ward](https://github.com/WardPearce) | MapDeleter 
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/store_ws.zip)                                                            | [TheBO$$](https://steamcommunity.com/profiles/76561197976061879) | Store WS 
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/DeathRun-Shop-master.zip)                                                            | [fanijs](https://github.com/fanijs) | DeathRun Shop
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-StatTrak-master.zip)                                                            | [Ward](https://github.com/WardPearce) | StatTrak
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-TagColorsChanger-master.zip)                                                            | [Ward](https://github.com/WardPearce) | TagColorsChanger
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-multi-advertisement-master.zip)                                                            | [Ward](https://github.com/WardPearce) | Multi Advertisement
 ```
 Have Private Plugins From Franc1sco?
 
