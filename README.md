@@ -54,6 +54,7 @@ Last Update: 15/03/2019.
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-TagColorsChanger-master.zip)                                                            | [Ward](https://github.com/WardPearce) | TagColorsChanger
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-multi-advertisement-master.zip)                                                            | [Ward](https://github.com/WardPearce) | Multi Advertisement
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/NoGSLTBan.zip)                                                            | [Ward](https://github.com/WardPearce) | No GSLT Ban
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Arms-for-zeph-store-master.zip)                                                            | [Ward](https://github.com/WardPearce) | Arms for zeph store
 ```
 Have Private Plugins From Franc1sco?
 
