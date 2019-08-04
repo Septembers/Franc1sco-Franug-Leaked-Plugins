@@ -60,7 +60,7 @@ Have Private Plugins From Franc1sco?
 
 Notes: (Read)
   Anomalously:
-  - Add me on discord at Ward#0730.
+  - Add me on discord at Ward#0001.
   - Send files via discord including .sp files.
   
   With Credit:
@@ -76,10 +76,6 @@ Notes: (Read)
 - He tried to make his own steam invite bot at first, ended up stealing this code later on from [ASteambot Invite To Steam Group](https://forums.alliedmods.net/showthread.php?t=301755), also Arkarr is a really nice guy, helped me out a lot for free.
 - If you really want to block users from using "sm plugins" [here](https://github.com/Bara/BlockSMPlugins) is a free plugin.
 - Using [Core v2.x](https://forums.alliedmods.net/showthread.php?t=299311) with this [Module](https://forums.alliedmods.net/showthread.php?t=304501) does exactly what __Valve Competitive Rank (RankMe Edition & Stamm version)__ does.
-
-```
-Submit a issue on Github or message me on discord.
-```
 
 # Franc1sco unethical business
 - He claims all other plugins what provide a similar thing might give you viruses.
