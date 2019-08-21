@@ -55,6 +55,8 @@ Last Update: 15/03/2019.
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-multi-advertisement-master.zip)                                                            | [Ward](https://github.com/WardPearce) | Multi Advertisement
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/NoGSLTBan.zip)                                                            | [Ward](https://github.com/WardPearce) | No GSLT Ban
 | Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Arms-for-zeph-store-master.zip)                                                            | [Ward](https://github.com/WardPearce) | Arms for zeph store
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Competitive-Rank-and-Coins-master.zip)                                                            | [Ward](https://github.com/WardPearce) | Competitive Rank and Coins
+| Latest | None | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Valve-Musickits-master.zip)                                                            | [Ward](https://github.com/WardPearce) | Valve Musickits
 ```
 Have Private Plugins From Franc1sco?
 
