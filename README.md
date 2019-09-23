@@ -12,7 +12,7 @@ I do **NOT** condemn the use of these illegal plugins due most of them directly 
 - [Resorting to bullying](#resorting-to-bullying)
 - [Screenshot Gallery](#screenshot-gallery)
 - [Franc1sco Contact](#franc1sco-contact)
-- [Franc1sco Retire](#franc1sco-retired)
+- [Franc1sco Retired](#franc1sco-retired)
 - [Full DM Logs](#full-dm-logs)
 
 # About Franc1sco
