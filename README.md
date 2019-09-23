@@ -12,6 +12,7 @@ I do **NOT** condemn the use of these illegal plugins due most of them directly 
 - [Resorting to bullying](#resorting-to-bullying)
 - [Screenshot Gallery](#screenshot-gallery)
 - [Franc1sco Contact](#franc1sco-contact)
+- [Franc1sco Retire](#franc1sco-retired)
 - [Full DM Logs](#full-dm-logs)
 
 # About Franc1sco
@@ -167,6 +168,43 @@ __NEVER BUY ANYTHING OFF HIM__
 [Github](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS)
 [Steam](http://steamcommunity.com/profiles/76561198011608644)
 [Telegram](https://t.me/Franc1sco)
+
+# Franc1sco Retired
+### His Statement
+```
+I am retired of sourcemod paid jobs, if I do something after now it will be for free. I am really tired of deal with some "disrespectful" people just because they paid and since now I have a real developer job then I dont need a extra money like before. I am open to colaborate in communities for free, but only when I want and for fun, not as extra a job.
+
+I will dont accept more paid request after now. I will finish the pending paid requests and no more. I have a good paid developer job and I don't need to have sourcemod plugins like a "extra job" more. Also I was really tired of deal with some people that think that I am his slave just because they paid some euros, and deal with almost 40 clients at the same time. My job in the office is extremly less stressful that it.
+
+And for people that think that my code is not enought good, I will said that my enterprise where I have my job dont think that and surely they know better about code that some random embittered haters on internet. Anyway I never take care about my code in sourcemod plugins because I was thinking that it was only a hobby but seems that some people take this extremly serious.
+
+For me if a sourcemod plugin works well is enough, but for some people this is not enough. Even in my enterprise are less serious and I have good teammates that support me, not like here that I was alone. Lucky I have my girlfriend for support me to keep going when I had no choice to do sourcemod plugins because it was my only source of income. Now its different and finally I am a real developer in a good enterprise.
+
+Thanks to the people that supported me on internet, and I'm sorry if I didn't sympathize too much with you, dealing with so many people on the internet made me quite impassive.
+```
+### Him discussing code quality.
+```
+And for people that think that my code is not enought good, I will said that my enterprise where I have my job dont think that and surely they know better about code that some random embittered haters on internet.
+```
+No comment needed...
+
+```
+Anyway I never take care about my code in sourcemod plugins because I was thinking that it was only a hobby but seems that some people take this extremly serious.
+```
+Writing bad code is fine, but once you're selling code to people you can't just call it a 'hobby' and expect people to be happy with that. At the end of the day he is providing a service / product to CLIENTS and CLIENTS have the right to expect well-written code. BUT WAIT DIDN'T YOU JUST SAY HATERS WHERE WRONG ABOUT YOUR SM CODE BEING POOR?
+
+```
+Even in my enterprise are less serious and I have good teammates that support me.
+```
+I feel sorry for his company's coding standards.
+
+```
+Luckily I have my girlfriend for support me to keep going when I had no choice to do sourcemod plugins because it was my only source of income.
+```
+But I thought it was just a hobby...
+
+### My Thoughts
+I see this a lot in Sourcemod and many other communities. People believe it's fine to produce poorly written code because they have a 'life' outside the internet, what I'm fine with. But once you start selling this poorly written code things change. WHENEVER you are selling a service / product to a client you don't have to right to call it a hobby and have ZERO reason to be lazy... I'm sorry Franc1sco that people on the internet didn't give you kindness when you sold crap to them and honestly if you can't make time because your 'life' is too busy for the clients who you said yourself was producing your income at the time then maybe, just a crazy thought just MAYBE make time for them.
 
 # Full DM Logs
 ```
