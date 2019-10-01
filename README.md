@@ -1,3 +1,5 @@
+Massive thanks to everyone who helped support this repo! [Franc1sco](https://github.com/Franc1sco?tab=repositories) has now began to open source all his private plugins. Everyone who starred, forked, merged or send me private plugins helped to kill Franc1sco's unethical business. He hasn't yet released everything so make sure to check back for new releases!
+
 # Notice
 I do **NOT** condemn the use of these illegal plugins due most of them directly breaking Valve's TOS. The **ONLY** reason this repository exists is to prove Franc1sco unethical business practice (Borderline scams). Anything you download here is under your own risk and anything here could result in a ban or even legal action from Valve. **NEVER** buy anything off Franc1sco, but if you already own some plugins what are not leaked here already please submit a issue or merge request. Other sites do provide methods to avoid GLST bans (e.g. [csgotokens.com](https://csgotokens.com/index.php)) but I do not condemn the use of such sites. 
 
